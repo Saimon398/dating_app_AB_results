@@ -1,2 +1,2 @@
-# dating_app_analysis
-Analysing the results of AB testing of a control group and a test group in which the implementation of a new recommendation system for dating application was tested
+# Анализ приложения для знакомств
+Анализ результатов AB-тестирования контрольной и тестовой групп, в которых проверялось внедрение новой рекомендательной системы для приложения знакомств
