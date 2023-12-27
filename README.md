@@ -1,2 +1,2 @@
 # delivery_app_analysis
-Анализ результатов AB-тестирования контрольной и тестовой группы, в которой проверялось внедрение новой рекоммендательной системы для платформы доставок
+Analysing the results of AB testing of a control group and a test group in which the implementation of a new recommendation system for a delivery platform was tested
