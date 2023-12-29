@@ -83,7 +83,7 @@
 
 `power_analysis = GofChisquarePower()`
 
-`mde    = power_analysis.solve_power(nobs=500, alpha=0.05, power=0.8, n_bins=4)`
+`mde = power_analysis.solve_power(nobs=500, alpha=0.05, power=0.8, n_bins=4)`
 
 **Минимальный детектируемый эффект для данных параметров: 0.15**
 
@@ -102,7 +102,7 @@
 
 `power_analysis = TTestIndPower()`
 
-`mde            = power_analysis.solve_power(nobs1=nobs1, alpha=0.05, power=0.8)`
+`mde = power_analysis.solve_power(nobs1=nobs1, alpha=0.05, power=0.8)`
 
 **Минимальный детектируемый эффект для данных параметров: 0.18**
 
